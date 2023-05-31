@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "614580370587",
+    "project_id": "interview-school-66bed",
+    "storage_bucket": "interview-school-66bed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614580370587:android:0b493fc0e9f7fb272eda3e",
+        "android_client_info": {
+          "package_name": "com.example.interviewschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614580370587-uhhdq2a7qkbi00ci5b5nhdin7t7ge51b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.interviewschool",
+            "certificate_hash": "5a70982936c7f31cdf72b97d828ae7dc5a269354"
+          }
+        },
+        {
+          "client_id": "614580370587-2i4gfddeen5ihglsfotdtr2eh7qut4ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1svXpRrCWLP6gau4jnLvsI_p3j_wTCis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614580370587-2i4gfddeen5ihglsfotdtr2eh7qut4ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
